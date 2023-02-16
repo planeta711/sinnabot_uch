@@ -1,0 +1,36 @@
+name: zb-cailapub
+
+entryPoint:
+  - main.sc
+
+botEngine: v2
+language: ru
+
+tests:
+  include:
+    - test.xml
+
+sts:
+    noMatchThreshold: 0.2
+
+caila:
+    noMatchThreshold: 0.2
+
+nlp:
+    lengthLimit:
+      symbols: 1000
+      enabled: true
+    timeLimit:
+      enabled: true
+      timeout: 15000
+
+scriptsPreLoad:
+  global:
+   - /jslib/moment.min.js
+   - /jslib/underscore.js
+   - /jsapi/common.js
+   - /jsapi/http.js
+   - /jsapi/mail.js
+  local:
+   - /jsapi/mail.js
+   - /jsapi/reactions.js

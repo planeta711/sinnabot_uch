@@ -1,0 +1,451 @@
+{
+  "positions" : [ {
+    "id" : "/NoMatch",
+    "x" : 220,
+    "y" : 5796
+  }, {
+    "id" : "/SendPhoto/fileEventPhoto3",
+    "x" : 900,
+    "y" : 4688
+  }, {
+    "id" : "/ProtPos",
+    "x" : 560,
+    "y" : 1654
+  }, {
+    "id" : "/Open10R",
+    "x" : 9740,
+    "y" : 1920
+  }, {
+    "id" : "/Open1/Open1fileEventPhoto013",
+    "x" : 1580,
+    "y" : 4176
+  }, {
+    "id" : "/Open2a",
+    "x" : 3280,
+    "y" : 4056
+  }, {
+    "id" : "/Rask",
+    "x" : 560,
+    "y" : 3620
+  }, {
+    "id" : "/ProtPover",
+    "x" : 560,
+    "y" : 1246
+  }, {
+    "id" : "/Open8R/Open8RfileEventPhoto57",
+    "x" : 8720,
+    "y" : 2180
+  }, {
+    "id" : "/Open5/Open5fileEventPhoto6",
+    "x" : 6680,
+    "y" : 2900
+  }, {
+    "id" : "/Сlosing1R",
+    "x" : 2600,
+    "y" : 874
+  }, {
+    "id" : "/Open3R",
+    "x" : 4640,
+    "y" : 1640
+  }, {
+    "id" : "/Open2a/Open2aError7",
+    "x" : 3620,
+    "y" : 3758
+  }, {
+    "id" : "/Open11R",
+    "x" : 10420,
+    "y" : 3690
+  }, {
+    "id" : "/Open3R/Open3RfileEventPhoto4",
+    "x" : 4980,
+    "y" : 1640
+  }, {
+    "id" : "/CCC",
+    "x" : 900,
+    "y" : 496
+  }, {
+    "id" : "/СlosingStartR",
+    "x" : 900,
+    "y" : 5312
+  }, {
+    "id" : "/Open4aR/Open4aRenterData",
+    "x" : 6000,
+    "y" : 2700
+  }, {
+    "id" : "/Casa",
+    "x" : 560,
+    "y" : 3824
+  }, {
+    "id" : "/Open2aR",
+    "x" : 3960,
+    "y" : 3758
+  }, {
+    "id" : "/Open2a/Open2afileEventPhoto12",
+    "x" : 4300,
+    "y" : 4196
+  }, {
+    "id" : "/Open8/Open8fileEventPhoto55",
+    "x" : 8720,
+    "y" : 2510
+  }, {
+    "id" : "/OpenFinEEEEE/OpenFinError091",
+    "x" : 12120,
+    "y" : 3788
+  }, {
+    "id" : "/Сlosing2R",
+    "x" : 3960,
+    "y" : 1240
+  }, {
+    "id" : "/Сlosing2R/Сlosing2RError",
+    "x" : 4300,
+    "y" : 990
+  }, {
+    "id" : "/Open2R",
+    "x" : 2600,
+    "y" : 3748
+  }, {
+    "id" : "/Open5R/Open5RfileEventPhoto5",
+    "x" : 6680,
+    "y" : 2570
+  }, {
+    "id" : "/Open1R/Open1fileEventPhoto11",
+    "x" : 1580,
+    "y" : 3878
+  }, {
+    "id" : "/Сlosing1/Сlosing1fileEventPhoto",
+    "x" : 2940,
+    "y" : 1380
+  }, {
+    "id" : "/Сlosing3R/Open3RfileEventPhoto4",
+    "x" : 4980,
+    "y" : 2960
+  }, {
+    "id" : "/NoMatch/{{$session.lastState}}",
+    "x" : 560,
+    "y" : 5796
+  }, {
+    "id" : "/Сlosing3/Сlosing3fileEventPhoto",
+    "x" : 4980,
+    "y" : 1380
+  }, {
+    "id" : "/Open3/Open3fileEventPhoto13",
+    "x" : 4980,
+    "y" : 3668
+  }, {
+    "id" : "/Сlosing2/Сlosing2Error",
+    "x" : 3620,
+    "y" : 1240
+  }, {
+    "id" : "/Open4a/Open4aenterData2",
+    "x" : 6000,
+    "y" : 2960
+  }, {
+    "id" : "/Alarm2",
+    "x" : 900,
+    "y" : 4496
+  }, {
+    "id" : "/СlosingStartR/СlosingStartError2",
+    "x" : 1240,
+    "y" : 5312
+  }, {
+    "id" : "/Open11/Open11fileEventPhoto85",
+    "x" : 10760,
+    "y" : 2048
+  }, {
+    "id" : "/BBB",
+    "x" : 220,
+    "y" : 812
+  }, {
+    "id" : "/OpenFin/OpenFinfileEventPhoto87",
+    "x" : 11440,
+    "y" : 3674
+  }, {
+    "id" : "/InstAll",
+    "x" : 560,
+    "y" : 3200
+  }, {
+    "id" : "/Сlosing2R/Сlosing2RfileEventPhoto",
+    "x" : 4300,
+    "y" : 1250
+  }, {
+    "id" : "/SendPhoto2/fileEventPhoto4",
+    "x" : 900,
+    "y" : 4304
+  }, {
+    "id" : "/Open7/Open7fileEventPhoto45",
+    "x" : 8040,
+    "y" : 2640
+  }, {
+    "id" : "/Сlosing3R",
+    "x" : 4640,
+    "y" : 2960
+  }, {
+    "id" : "/OpenFin",
+    "x" : 11100,
+    "y" : 3560
+  }, {
+    "id" : "/Open1R",
+    "x" : 1240,
+    "y" : 3738
+  }, {
+    "id" : "/Open2R/Open2fileEventPhoto2",
+    "x" : 2940,
+    "y" : 3888
+  }, {
+    "id" : "/Open2/Open2fileEventPhoto12",
+    "x" : 2940,
+    "y" : 4186
+  }, {
+    "id" : "/Open9R",
+    "x" : 9060,
+    "y" : 2050
+  }, {
+    "id" : "/Open1R/Error4",
+    "x" : 1580,
+    "y" : 3618
+  }, {
+    "id" : "/Open2R/Open2Error6",
+    "x" : 2940,
+    "y" : 3628
+  }, {
+    "id" : "/Open9",
+    "x" : 9060,
+    "y" : 2380
+  }, {
+    "id" : "/bbb",
+    "x" : 220,
+    "y" : 4840
+  }, {
+    "id" : "/Parol",
+    "x" : 560,
+    "y" : 744
+  }, {
+    "id" : "/Start",
+    "x" : 220,
+    "y" : 180
+  }, {
+    "id" : "/OpenFinEEEEE/OpenFinfileEventPhoto087",
+    "x" : 12120,
+    "y" : 3560
+  }, {
+    "id" : "/Prot",
+    "x" : 560,
+    "y" : 3416
+  }, {
+    "id" : "/Сlosing3",
+    "x" : 4640,
+    "y" : 1380
+  }, {
+    "id" : "/Open11",
+    "x" : 10420,
+    "y" : 2048
+  }, {
+    "id" : "/Сlosing2",
+    "x" : 3280,
+    "y" : 1240
+  }, {
+    "id" : "/Open10",
+    "x" : 9740,
+    "y" : 2250
+  }, {
+    "id" : "/ProtPrib",
+    "x" : 560,
+    "y" : 1450
+  }, {
+    "id" : "/Сlosing1",
+    "x" : 1920,
+    "y" : 1134
+  }, {
+    "id" : "/Open10R/Open10RfileEventPhoto77",
+    "x" : 10080,
+    "y" : 1920
+  }, {
+    "id" : "/Open6/Open6fileEventPhoto25",
+    "x" : 7360,
+    "y" : 2770
+  }, {
+    "id" : "/Alarm",
+    "x" : 900,
+    "y" : 4880
+  }, {
+    "id" : "/SendPhoto2",
+    "x" : 560,
+    "y" : 4400
+  }, {
+    "id" : "/Open10/Open10fileEventPhoto75",
+    "x" : 10080,
+    "y" : 2250
+  }, {
+    "id" : "/СlosingStart/ClError",
+    "x" : 560,
+    "y" : 5312
+  }, {
+    "id" : "/Сlosing1R/Сlosing1RfileEventPhoto",
+    "x" : 2940,
+    "y" : 1110
+  }, {
+    "id" : "/Open8R",
+    "x" : 8380,
+    "y" : 2180
+  }, {
+    "id" : "/Сlosing2/Сlosing2fileEventPhoto",
+    "x" : 4300,
+    "y" : 1510
+  }, {
+    "id" : "/7777767",
+    "x" : 220,
+    "y" : 396
+  }, {
+    "id" : "/Open9R/Open9RfileEventPhoto67",
+    "x" : 9400,
+    "y" : 2050
+  }, {
+    "id" : "/Open11R/Open11RfileEventPhoto87",
+    "x" : 10760,
+    "y" : 3690
+  }, {
+    "id" : "/Сlosing1/Сlosing1Error",
+    "x" : 2260,
+    "y" : 874
+  }, {
+    "id" : "/Open7R/Open7RfileEventPhoto47",
+    "x" : 8040,
+    "y" : 2310
+  }, {
+    "id" : "/СlosingStart",
+    "x" : 220,
+    "y" : 5312
+  }, {
+    "id" : "/SendPhoto",
+    "x" : 560,
+    "y" : 4784
+  }, {
+    "id" : "/Open7R",
+    "x" : 7700,
+    "y" : 2310
+  }, {
+    "id" : "/Сlosing1R/Сlosing1RError",
+    "x" : 2940,
+    "y" : 850
+  }, {
+    "id" : "/Alarm2/fileEventPhoto2",
+    "x" : 1240,
+    "y" : 4496
+  }, {
+    "id" : "/Open2/Open2Error5",
+    "x" : 2260,
+    "y" : 3748
+  }, {
+    "id" : "/Open4aR",
+    "x" : 5660,
+    "y" : 2700
+  }, {
+    "id" : "/Open9/Open9fileEventPhoto65",
+    "x" : 9400,
+    "y" : 2380
+  }, {
+    "id" : "/Open6R/Open6RfileEventPhoto27",
+    "x" : 7360,
+    "y" : 2440
+  }, {
+    "id" : "/OpenFin/OpenFinError090",
+    "x" : 11440,
+    "y" : 3446
+  }, {
+    "id" : "/test3",
+    "x" : 900,
+    "y" : 5080
+  }, {
+    "id" : "/test1",
+    "x" : 220,
+    "y" : 5548
+  }, {
+    "id" : "/test2",
+    "x" : 560,
+    "y" : 5080
+  }, {
+    "id" : "/Open6R",
+    "x" : 7020,
+    "y" : 2440
+  }, {
+    "id" : "/Cafe",
+    "x" : 220,
+    "y" : 588
+  }, {
+    "id" : "/OpenFinEEEEE",
+    "x" : 11780,
+    "y" : 3560
+  }, {
+    "id" : "/Open2aR/Open2aRError8",
+    "x" : 4300,
+    "y" : 3638
+  }, {
+    "id" : "/CCC/Error2",
+    "x" : 1240,
+    "y" : 496
+  }, {
+    "id" : "/Alarm/fileEventPhoto",
+    "x" : 1240,
+    "y" : 4880
+  }, {
+    "id" : "/Open4a",
+    "x" : 5660,
+    "y" : 2960
+  }, {
+    "id" : "/Open1/Open1Error3",
+    "x" : 900,
+    "y" : 3738
+  }, {
+    "id" : "/Ok1ClothesCallbackQuery",
+    "x" : 220,
+    "y" : 3042
+  }, {
+    "id" : "/BBB/Error",
+    "x" : 560,
+    "y" : 496
+  }, {
+    "id" : "/Open2aR/Open2aRfileEventPhoto3",
+    "x" : 4300,
+    "y" : 3898
+  }, {
+    "id" : "/SetReminder",
+    "x" : 220,
+    "y" : 5076
+  }, {
+    "id" : "/Open2",
+    "x" : 1920,
+    "y" : 4046
+  }, {
+    "id" : "/Open1",
+    "x" : 560,
+    "y" : 4036
+  }, {
+    "id" : "/Open4",
+    "x" : 5320,
+    "y" : 2960
+  }, {
+    "id" : "/Open3",
+    "x" : 4640,
+    "y" : 3668
+  }, {
+    "id" : "/Open5R",
+    "x" : 6340,
+    "y" : 2570
+  }, {
+    "id" : "/Open6",
+    "x" : 7020,
+    "y" : 2770
+  }, {
+    "id" : "/Open5",
+    "x" : 6340,
+    "y" : 2900
+  }, {
+    "id" : "/Open8",
+    "x" : 8380,
+    "y" : 2510
+  }, {
+    "id" : "/Open7",
+    "x" : 7700,
+    "y" : 2640
+  } ]
+}
